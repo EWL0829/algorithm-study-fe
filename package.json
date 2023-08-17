@@ -1,0 +1,25 @@
+{
+  "name": "algorithm-study-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testE": "jest ./src/easy.test.js",
+    "testM": "jest ./src/medium.test.js",
+    "testH": "jest ./src/hard.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EWL0829/algorithm-study-fe.git"
+  },
+  "author": "ewl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EWL0829/algorithm-study-fe/issues"
+  },
+  "homepage": "https://github.com/EWL0829/algorithm-study-fe#readme",
+  "dependencies": {
+    "jest": "^29.6.2"
+  }
+}
